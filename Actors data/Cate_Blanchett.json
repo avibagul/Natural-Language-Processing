@@ -1,0 +1,491 @@
+{
+  "name": "Cate Blanchett",
+  "shortname": "Blanchett",
+  "gender": "female",
+  "birthyear": 1969,
+  "diedyear": null,
+  "nationality": "Australian",
+  "birthplace": "Victoria (Australia)",
+  "movies": [
+    {
+      "name": "Journey to the South Pacific",
+      "role": "actress",
+      "year": 2013,
+      "rating": 6.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Veronica Guerin",
+      "role": "actress",
+      "year": 2003,
+      "rating": 6.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Heaven",
+      "role": "actress",
+      "year": 2002,
+      "rating": 7.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Where'd You Go, Bernadette",
+      "role": "actress",
+      "year": 2019,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Mowgli",
+      "role": "actress",
+      "year": 2019,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Voyage of Time: Life's Journey",
+      "role": "actress",
+      "year": 2016,
+      "rating": 6.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Knight of Cups",
+      "role": "actress",
+      "year": 2015,
+      "rating": 5.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Babel",
+      "role": "actress",
+      "year": 2006,
+      "rating": 7.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "How to Train Your Dragon: The Hidden World",
+      "role": "actress",
+      "year": 2019,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Missing",
+      "role": "actress",
+      "year": 2003,
+      "rating": 6.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Lucy and Desi",
+      "role": "actress",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Aviator",
+      "role": "actress",
+      "year": 2004,
+      "rating": 7.5,
+      "award": "Best Supporting Actress",
+      "nominations": [
+        "Best Supporting Actress"
+      ]
+    },
+    {
+      "name": "The Monuments Men",
+      "role": "actress",
+      "year": 2014,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Galapagos Affair: Satan Came to Eden",
+      "role": "actress",
+      "year": 2013,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Man Who Cried",
+      "role": "actress",
+      "year": 2000,
+      "rating": 6.2,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Curious Case of Benjamin Button",
+      "role": "actress",
+      "year": 2008,
+      "rating": 7.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Talented Mr. Ripley",
+      "role": "actress",
+      "year": 1999,
+      "rating": 7.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Elizabeth: The Golden Age",
+      "role": "actress",
+      "year": 2007,
+      "rating": 6.9,
+      "award": null,
+      "nominations": [
+        "Best Actress"
+      ]
+    },
+    {
+      "name": "Carol",
+      "role": "actress",
+      "year": 2015,
+      "rating": 7.2,
+      "award": null,
+      "nominations": [
+        "Best Actress"
+      ]
+    },
+    {
+      "name": "The House with a Clock in Its Walls",
+      "role": "actress",
+      "year": 2018,
+      "rating": 6.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Pushing Tin",
+      "role": "actress",
+      "year": 1999,
+      "rating": 6.0,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Indiana Jones and the Kingdom of the Crystal Skull",
+      "role": "actress",
+      "year": 2008,
+      "rating": 6.2,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Elizabeth",
+      "role": "actress",
+      "year": 1998,
+      "rating": 7.5,
+      "award": null,
+      "nominations": [
+        "Best Actress"
+      ]
+    },
+    {
+      "name": "How to Train Your Dragon 2",
+      "role": "actress",
+      "year": 2014,
+      "rating": 7.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Wedding Party",
+      "role": "actress",
+      "year": 1997,
+      "rating": 6.0,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "I'm Not There.",
+      "role": "actress",
+      "year": 2007,
+      "rating": 7.0,
+      "award": null,
+      "nominations": [
+        "Best Supporting Actress"
+      ]
+    },
+    {
+      "name": "The Hobbit: The Battle of the Five Armies",
+      "role": "actress",
+      "year": 2014,
+      "rating": 7.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Kaboria",
+      "role": "actress",
+      "year": 1990,
+      "rating": 6.0,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Cinderella",
+      "role": "actress",
+      "year": 2015,
+      "rating": 6.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Ponyo",
+      "role": "actress",
+      "year": 2008,
+      "rating": 7.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Blue Jasmine",
+      "role": "actress",
+      "year": 2013,
+      "rating": 7.3,
+      "award": "Best Actress",
+      "nominations": [
+        "Best Actress"
+      ]
+    },
+    {
+      "name": "Hanna",
+      "role": "actress",
+      "year": 2011,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Thor: Ragnarok",
+      "role": "actress",
+      "year": 2017,
+      "rating": 7.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Manifesto",
+      "role": "actress",
+      "year": 2015,
+      "rating": 6.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Oscar and Lucinda",
+      "role": "actress",
+      "year": 1997,
+      "rating": 6.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Gift",
+      "role": "actress",
+      "year": 2000,
+      "rating": 6.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Little Fish",
+      "role": "actress",
+      "year": 2005,
+      "rating": 6.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Charlotte Gray",
+      "role": "actress",
+      "year": 2001,
+      "rating": 6.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Parklands",
+      "role": "actress",
+      "year": 1996,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Bandits",
+      "role": "actress",
+      "year": 2001,
+      "rating": 6.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Robin Hood",
+      "role": "actress",
+      "year": 2010,
+      "rating": 6.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Good German",
+      "role": "actress",
+      "year": 2006,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Life Aquatic with Steve Zissou",
+      "role": "actress",
+      "year": 2004,
+      "rating": 7.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Notes on a Scandal",
+      "role": "actress",
+      "year": 2006,
+      "rating": 7.4,
+      "award": null,
+      "nominations": [
+        "Best Supporting Actress"
+      ]
+    },
+    {
+      "name": "Paradise Road",
+      "role": "actress",
+      "year": 1997,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Shipping News",
+      "role": "actress",
+      "year": 2001,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Truth",
+      "role": "actress",
+      "year": 2015,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Ocean's Eight",
+      "role": "actress",
+      "year": 2018,
+      "rating": 6.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    }
+  ]
+}

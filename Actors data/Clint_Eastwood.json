@@ -1,0 +1,751 @@
+{
+  "name": "Clint Eastwood",
+  "shortname": "Eastwood",
+  "gender": "male",
+  "birthyear": 1930,
+  "diedyear": null,
+  "nationality": "American",
+  "birthplace": "California",
+  "movies": [
+    {
+      "name": "For a Few Dollars More",
+      "role": "actor",
+      "year": 1965,
+      "rating": 8.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Midnight in the Garden of Good and Evil",
+      "role": "director",
+      "year": 1997,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Unforgiven",
+      "role": "actor",
+      "year": 1992,
+      "rating": 8.2,
+      "award": null,
+      "nominations": [
+        "Best Actor"
+      ]
+    },
+    {
+      "name": "True Crime",
+      "role": "actor",
+      "year": 1999,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Absolute Power",
+      "role": "actor",
+      "year": 1997,
+      "rating": 6.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Sad Hill Unearthed",
+      "role": "actor",
+      "year": 2017,
+      "rating": 8.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Letters from Iwo Jima",
+      "role": "director",
+      "year": 2006,
+      "rating": 7.9,
+      "award": null,
+      "nominations": [
+        "Best Director"
+      ]
+    },
+    {
+      "name": "Don't Pave Main Street: Carmel's Heritage",
+      "role": "actor",
+      "year": 1994,
+      "rating": 6.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Pink Cadillac",
+      "role": "actor",
+      "year": 1989,
+      "rating": 5.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Mule",
+      "role": "actor",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Outlaw Josey Wales",
+      "role": "actor",
+      "year": 1976,
+      "rating": 7.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Any Which Way You Can",
+      "role": "actor",
+      "year": 1980,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Ambush at Cimarron Pass",
+      "role": "actor",
+      "year": 1958,
+      "rating": 5.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Thunderbolt and Lightfoot",
+      "role": "actor",
+      "year": 1974,
+      "rating": 7.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Jersey Boys",
+      "role": "director",
+      "year": 2014,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Blood Work",
+      "role": "actor",
+      "year": 2002,
+      "rating": 6.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "A Fistful of Dollars",
+      "role": "actor",
+      "year": 1964,
+      "rating": 8.0,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Two Mules for Sister Sara",
+      "role": "actor",
+      "year": 1970,
+      "rating": 7.0,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Dead Pool",
+      "role": "actor",
+      "year": 1988,
+      "rating": 6.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Gary Cooper: American Life, American Legend",
+      "role": "actor",
+      "year": 1989,
+      "rating": 7.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Hereafter",
+      "role": "director",
+      "year": 2010,
+      "rating": 6.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Hang 'Em High",
+      "role": "actor",
+      "year": 1968,
+      "rating": 7.0,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "In the Line of Fire",
+      "role": "actor",
+      "year": 1993,
+      "rating": 7.2,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Invictus",
+      "role": "director",
+      "year": 2009,
+      "rating": 7.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Trouble with the Curve",
+      "role": "actor",
+      "year": 2012,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Space Cowboys",
+      "role": "actor",
+      "year": 2000,
+      "rating": 6.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Sully",
+      "role": "director",
+      "year": 2016,
+      "rating": 7.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "White Hunter Black Heart",
+      "role": "actor",
+      "year": 1990,
+      "rating": 6.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Play Misty for Me",
+      "role": "actor",
+      "year": 1971,
+      "rating": 7.0,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Stars Fell on Henrietta",
+      "role": "producer",
+      "year": 1995,
+      "rating": 6.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Good, the Bad and the Ugly",
+      "role": "actor",
+      "year": 1966,
+      "rating": 8.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "City Heat",
+      "role": "actor",
+      "year": 1984,
+      "rating": 5.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Where Eagles Dare",
+      "role": "actor",
+      "year": 1968,
+      "rating": 7.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Coogan's Bluff",
+      "role": "actor",
+      "year": 1968,
+      "rating": 6.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "J. Edgar",
+      "role": "director",
+      "year": 2011,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Breezy",
+      "role": "director",
+      "year": 1973,
+      "rating": 7.0,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Pale Rider",
+      "role": "actor",
+      "year": 1985,
+      "rating": 7.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Flags of our Fathers",
+      "role": "director",
+      "year": 2006,
+      "rating": 7.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Tightrope",
+      "role": "actor",
+      "year": 1984,
+      "rating": 6.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Escape from Alcatraz",
+      "role": "actor",
+      "year": 1979,
+      "rating": 7.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The 15:17 to Paris",
+      "role": "director",
+      "year": 2018,
+      "rating": 5.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Gran Torino",
+      "role": "actor",
+      "year": 2008,
+      "rating": 8.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Every Which Way But Loose",
+      "role": "actor",
+      "year": 1978,
+      "rating": 6.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Joe Kidd",
+      "role": "actor",
+      "year": 1972,
+      "rating": 6.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "High Plains Drifter",
+      "role": "actor",
+      "year": 1973,
+      "rating": 7.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Paint Your Wagon",
+      "role": "actor",
+      "year": 1969,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Gauntlet",
+      "role": "actor",
+      "year": 1977,
+      "rating": 6.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Bird",
+      "role": "director",
+      "year": 1988,
+      "rating": 7.2,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Eiger Sanction",
+      "role": "actor",
+      "year": 1975,
+      "rating": 6.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Firefox",
+      "role": "actor",
+      "year": 1982,
+      "rating": 5.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Mystic River",
+      "role": "director",
+      "year": 2003,
+      "rating": 8.0,
+      "award": null,
+      "nominations": [
+        "Best Director"
+      ]
+    },
+    {
+      "name": "Bronco Billy",
+      "role": "actor",
+      "year": 1980,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Enforcer",
+      "role": "actor",
+      "year": 1976,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Dirty Harry",
+      "role": "actor",
+      "year": 1971,
+      "rating": 7.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Honkytonk Man",
+      "role": "actor",
+      "year": 1982,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Rookie",
+      "role": "actor",
+      "year": 1990,
+      "rating": 5.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Sudden Impact",
+      "role": "actor",
+      "year": 1983,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Bridges of Madison County",
+      "role": "actor",
+      "year": 1995,
+      "rating": 7.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Heartbreak Ridge",
+      "role": "actor",
+      "year": 1986,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "A Perfect World",
+      "role": "actor",
+      "year": 1993,
+      "rating": 7.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Beguiled",
+      "role": "actor",
+      "year": 1971,
+      "rating": 7.2,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Lafayette Escadrille",
+      "role": "actor",
+      "year": 1958,
+      "rating": 5.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Million Dollar Baby",
+      "role": "actor",
+      "year": 2004,
+      "rating": 8.1,
+      "award": null,
+      "nominations": [
+        "Best Actor"
+      ]
+    },
+    {
+      "name": "Magnum Force",
+      "role": "actor",
+      "year": 1973,
+      "rating": 7.2,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Kelly's Heroes",
+      "role": "actor",
+      "year": 1970,
+      "rating": 7.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Changeling",
+      "role": "director",
+      "year": 2008,
+      "rating": 7.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "American Sniper",
+      "role": "director",
+      "year": 2014,
+      "rating": 7.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "American Sniper",
+      "role": "producer",
+      "year": 2014,
+      "rating": 7.3,
+      "award": null,
+      "nominations": [
+        "Best Picture"
+      ]
+    },
+    {
+      "name": "Million Dollar Baby",
+      "role": "producer",
+      "year": 2004,
+      "rating": 8.1,
+      "award": "Best Picture",
+      "nominations": [
+        "Best Picture"
+      ]
+    },
+    {
+      "name": "Million Dollar Baby",
+      "role": "director",
+      "year": 2004,
+      "rating": 8.1,
+      "award": "Best Director",
+      "nominations": [
+        "Best Director"
+      ]
+    },
+    {
+      "name": "Letters from Iwo Jima",
+      "role": "producer",
+      "year": 2006,
+      "rating": 7.9,
+      "award": null,
+      "nominations": [
+        "Best Picture"
+      ]
+    },
+    {
+      "name": "Mystic River",
+      "role": "producer",
+      "year": 2003,
+      "rating": 8.0,
+      "award": null,
+      "nominations": [
+        "Best Picture"
+      ]
+    },
+    {
+      "name": "Unforgiven",
+      "role": "producer",
+      "year": 1992,
+      "rating": 8.2,
+      "award": "Best Picture",
+      "nominations": [
+        "Best Picture"
+      ]
+    },
+    {
+      "name": "Unforgiven",
+      "role": "director",
+      "year": 1992,
+      "rating": 8.2,
+      "award": "Best Director",
+      "nominations": [
+        "Best Director"
+      ]
+    }
+  ]
+}

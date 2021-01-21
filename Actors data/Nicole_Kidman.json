@@ -1,0 +1,701 @@
+{
+  "name": "Nicole Kidman",
+  "shortname": "Kidman",
+  "gender": "female",
+  "birthyear": 1967,
+  "diedyear": null,
+  "nationality": "Australian",
+  "birthplace": "Hawaii",
+  "movies": [
+    {
+      "name": "The Invasion",
+      "role": "actress",
+      "year": 2007,
+      "rating": 5.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Aquaman",
+      "role": "actress",
+      "year": 2018,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Malice",
+      "role": "actress",
+      "year": 1993,
+      "rating": 6.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Goldfinch",
+      "role": "actress",
+      "year": 2019,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Moulin Rouge!",
+      "role": "actress",
+      "year": 2001,
+      "rating": 7.6,
+      "award": null,
+      "nominations": [
+        "Best Actress"
+      ]
+    },
+    {
+      "name": "The Eighth Wonder",
+      "role": "producer",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "In the Cut",
+      "role": "producer",
+      "year": 2003,
+      "rating": 5.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Lion",
+      "role": "actress",
+      "year": 2016,
+      "rating": 8.1,
+      "award": null,
+      "nominations": [
+        "Best Supporting Actress"
+      ]
+    },
+    {
+      "name": "How to Talk to Girls at Parties",
+      "role": "actress",
+      "year": 2017,
+      "rating": 5.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Rabbit Hole",
+      "role": "actress",
+      "year": 2010,
+      "rating": 7.0,
+      "award": null,
+      "nominations": [
+        "Best Actress"
+      ]
+    },
+    {
+      "name": "Trespass",
+      "role": "actress",
+      "year": 2011,
+      "rating": 5.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "My Life",
+      "role": "actress",
+      "year": 1993,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Flirting",
+      "role": "actress",
+      "year": 1991,
+      "rating": 7.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Dead Calm",
+      "role": "actress",
+      "year": 1989,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Others",
+      "role": "actress",
+      "year": 2001,
+      "rating": 7.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Australia",
+      "role": "actress",
+      "year": 2008,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Hours",
+      "role": "actress",
+      "year": 2002,
+      "rating": 7.6,
+      "award": "Best Actress",
+      "nominations": [
+        "Best Actress"
+      ]
+    },
+    {
+      "name": "Stoker",
+      "role": "actress",
+      "year": 2013,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Dogville",
+      "role": "actress",
+      "year": 2003,
+      "rating": 8.0,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "God Grew Tired of Us",
+      "role": "actress",
+      "year": 2006,
+      "rating": 7.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Windrider",
+      "role": "actress",
+      "year": 1986,
+      "rating": 5.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Untitled Dusty Springfield Project",
+      "role": "producer",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Stepford Wives",
+      "role": "actress",
+      "year": 2004,
+      "rating": 5.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Cold Mountain",
+      "role": "actress",
+      "year": 2003,
+      "rating": 7.2,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Paperboy",
+      "role": "actress",
+      "year": 2012,
+      "rating": 5.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "BMX Bandits",
+      "role": "actress",
+      "year": 1983,
+      "rating": 5.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Bit Part",
+      "role": "actress",
+      "year": 1987,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Fur: An Imaginary Portrait of Diane Arbus",
+      "role": "actress",
+      "year": 2006,
+      "rating": 6.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Spectre",
+      "role": "producer",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Genius",
+      "role": "actress",
+      "year": 2016,
+      "rating": 6.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Just Go with It",
+      "role": "actress",
+      "year": 2011,
+      "rating": 6.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Cuddles",
+      "role": "producer",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Queen of the Desert",
+      "role": "actress",
+      "year": 2015,
+      "rating": 5.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Birth",
+      "role": "actress",
+      "year": 2004,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Peacemaker",
+      "role": "actress",
+      "year": 1997,
+      "rating": 5.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "She Came to Me",
+      "role": "actress",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Billy Bathgate",
+      "role": "actress",
+      "year": 1991,
+      "rating": 5.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Beguiled",
+      "role": "actress",
+      "year": 2017,
+      "rating": 6.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Portrait of a Lady",
+      "role": "actress",
+      "year": 1996,
+      "rating": 6.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Practical Magic",
+      "role": "actress",
+      "year": 1998,
+      "rating": 6.2,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Family Fang",
+      "role": "actress",
+      "year": 2015,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Boy Erased",
+      "role": "actress",
+      "year": 2018,
+      "rating": 7.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Bewitched",
+      "role": "actress",
+      "year": 2005,
+      "rating": 4.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Fair and Balanced",
+      "role": "actress",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Batman Forever",
+      "role": "actress",
+      "year": 1995,
+      "rating": 5.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Eyes Wide Shut",
+      "role": "actress",
+      "year": 1999,
+      "rating": 7.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Grace of Monaco",
+      "role": "actress",
+      "year": 2014,
+      "rating": 5.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Far and Away",
+      "role": "actress",
+      "year": 1992,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Margot at the Wedding",
+      "role": "actress",
+      "year": 2007,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Days of Thunder",
+      "role": "actress",
+      "year": 1990,
+      "rating": 5.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Railway Man",
+      "role": "actress",
+      "year": 2013,
+      "rating": 7.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Photograph 51",
+      "role": "actress",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Emerald City",
+      "role": "actress",
+      "year": 1988,
+      "rating": 5.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Interpreter",
+      "role": "actress",
+      "year": 2005,
+      "rating": 6.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Destroyer",
+      "role": "actress",
+      "year": 2018,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "I Have Never Forgotten You: The Life & Legacy of Simon Wiesenthal",
+      "role": "actress",
+      "year": 2007,
+      "rating": 7.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Human Stain",
+      "role": "actress",
+      "year": 2003,
+      "rating": 6.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "To Die For",
+      "role": "actress",
+      "year": 1995,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Alone",
+      "role": "producer",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Upside",
+      "role": "actress",
+      "year": 2017,
+      "rating": 5.2,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Golden Compass",
+      "role": "actress",
+      "year": 2007,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "How to Marry a Millionaire",
+      "role": "producer",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Before I Go to Sleep",
+      "role": "actress",
+      "year": 2014,
+      "rating": 6.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Secret in Their Eyes",
+      "role": "actress",
+      "year": 2015,
+      "rating": 6.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Love and Pain and the Whole Damn Thing",
+      "role": "producer",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Strangerland",
+      "role": "actress",
+      "year": 2015,
+      "rating": 5.2,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Silent Wife",
+      "role": "actress",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Birthday Girl",
+      "role": "actress",
+      "year": 2001,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Truly Madly Guilty",
+      "role": "producer",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    }
+  ]
+}

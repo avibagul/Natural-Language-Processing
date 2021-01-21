@@ -1,0 +1,471 @@
+{
+  "name": "Denzel Washington",
+  "shortname": "Washington",
+  "gender": "male",
+  "birthyear": 1954,
+  "diedyear": null,
+  "nationality": "American",
+  "birthplace": "Mount Vernon, New York",
+  "movies": [
+    {
+      "name": "The Equalizer",
+      "role": "actor",
+      "year": 2014,
+      "rating": 7.2,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "American Gangster",
+      "role": "actor",
+      "year": 2007,
+      "rating": 7.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Taking of Pelham 123",
+      "role": "actor",
+      "year": 2009,
+      "rating": 6.4,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Fences",
+      "role": "actor",
+      "year": 2016,
+      "rating": 7.2,
+      "award": null,
+      "nominations": [
+        "Best Actor"
+      ]
+    },
+    {
+      "name": "Ricochet",
+      "role": "actor",
+      "year": 1991,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "He Got Game",
+      "role": "actor",
+      "year": 1998,
+      "rating": 6.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Preacher's Wife",
+      "role": "actor",
+      "year": 1996,
+      "rating": 5.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Training Day",
+      "role": "actor",
+      "year": 2001,
+      "rating": 7.7,
+      "award": "Best Actor",
+      "nominations": [
+        "Best Actor"
+      ]
+    },
+    {
+      "name": "Cry Freedom",
+      "role": "actor",
+      "year": 1987,
+      "rating": 7.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Great Debaters",
+      "role": "actor",
+      "year": 2007,
+      "rating": 7.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Inside Man",
+      "role": "actor",
+      "year": 2006,
+      "rating": 7.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Manchurian Candidate",
+      "role": "actor",
+      "year": 2004,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Magnificent Seven",
+      "role": "actor",
+      "year": 2016,
+      "rating": 6.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "John Q",
+      "role": "actor",
+      "year": 2002,
+      "rating": 7.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Unstoppable",
+      "role": "actor",
+      "year": 2010,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Journal for Jordan",
+      "role": "director",
+      "year": null,
+      "rating": null,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Remember the Titans",
+      "role": "actor",
+      "year": 2000,
+      "rating": 7.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Equalizer 2",
+      "role": "actor",
+      "year": 2018,
+      "rating": 7.0,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "2 Guns",
+      "role": "actor",
+      "year": 2013,
+      "rating": 6.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Siege",
+      "role": "actor",
+      "year": 1998,
+      "rating": 6.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Hurricane",
+      "role": "actor",
+      "year": 1999,
+      "rating": 7.6,
+      "award": null,
+      "nominations": [
+        "Best Actor"
+      ]
+    },
+    {
+      "name": "Courage Under Fire",
+      "role": "actor",
+      "year": 1996,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Mississippi Masala",
+      "role": "actor",
+      "year": 1991,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Philadelphia",
+      "role": "actor",
+      "year": 1993,
+      "rating": 7.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Man on Fire",
+      "role": "actor",
+      "year": 2004,
+      "rating": 7.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Book of Eli",
+      "role": "actor",
+      "year": 2010,
+      "rating": 6.9,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Safe House",
+      "role": "actor",
+      "year": 2012,
+      "rating": 6.8,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Virtuosity",
+      "role": "actor",
+      "year": 1995,
+      "rating": 5.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Mo' Better Blues",
+      "role": "actor",
+      "year": 1990,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Flight",
+      "role": "actor",
+      "year": 2012,
+      "rating": 7.3,
+      "award": null,
+      "nominations": [
+        "Best Actor"
+      ]
+    },
+    {
+      "name": "The Mighty Quinn",
+      "role": "actor",
+      "year": 1989,
+      "rating": 6.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Malcolm X",
+      "role": "actor",
+      "year": 1992,
+      "rating": 7.7,
+      "award": null,
+      "nominations": [
+        "Best Actor"
+      ]
+    },
+    {
+      "name": "Deja Vu",
+      "role": "actor",
+      "year": 2006,
+      "rating": 7.1,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Chasing Trane: The John Coltrane Documentary",
+      "role": "actor",
+      "year": 2016,
+      "rating": 7.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Fallen",
+      "role": "actor",
+      "year": 1998,
+      "rating": 7.0,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Antwone Fisher",
+      "role": "actor",
+      "year": 2002,
+      "rating": 7.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Out of Time",
+      "role": "actor",
+      "year": 2003,
+      "rating": 6.5,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "For Queen & Country",
+      "role": "actor",
+      "year": 1988,
+      "rating": 5.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Devil in a Blue Dress",
+      "role": "actor",
+      "year": 1995,
+      "rating": 6.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Bone Collector",
+      "role": "actor",
+      "year": 1999,
+      "rating": 6.7,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Roman J. Israel, Esq.",
+      "role": "actor",
+      "year": 2017,
+      "rating": 6.4,
+      "award": null,
+      "nominations": [
+        "Best Actor"
+      ]
+    },
+    {
+      "name": "Heart Condition",
+      "role": "actor",
+      "year": 1990,
+      "rating": 5.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Glory",
+      "role": "actor",
+      "year": 1989,
+      "rating": 7.9,
+      "award": "Best Supporting Actor",
+      "nominations": [
+        "Best Supporting Actor"
+      ]
+    },
+    {
+      "name": "Crimson Tide",
+      "role": "actor",
+      "year": 1995,
+      "rating": 7.3,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "The Pelican Brief",
+      "role": "actor",
+      "year": 1993,
+      "rating": 6.6,
+      "award": null,
+      "nominations": [
+
+      ]
+    },
+    {
+      "name": "Fences",
+      "role": "producer",
+      "year": 2016,
+      "rating": 7.2,
+      "award": null,
+      "nominations": [
+        "Best Picture"
+      ]
+    }
+  ]
+}
